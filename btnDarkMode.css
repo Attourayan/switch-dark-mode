@@ -1,4 +1,10 @@
 /*-------------------------------------------------------------------------*/
+
+body{
+    background-color: azure;
+}
+
+
 .checkbox {
     opacity: 0;
     position: absolute;
