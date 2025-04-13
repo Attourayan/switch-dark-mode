@@ -6,6 +6,8 @@ btnSwitchMode = (newTheme) => {
     }
 };
 
+
+
 const newTheme = localStorage.getItem("data-theme");
 btnSwitchMode(newTheme);
 document.body.classList.add(newTheme);
