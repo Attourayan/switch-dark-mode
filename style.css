@@ -1,2 +1,40 @@
-*{background-color: bisque;}
- 
+*{background-color:#fff;}
+
+body{
+    margin: 0 auto;
+    padding: 4px;
+    width:90% ;
+}
+header{
+    background-color: #ddd;
+    margin: 4px 0px;
+    height: 10em;
+}
+nav{
+background-color: #ddd;
+margin: 4px 0px;
+height: 2em;
+}
+main{
+    background-color: #ddd;
+    margin: 4px 0px;
+}
+main article{
+background-color: transparent;
+}
+main p{
+    background-color: transparent;
+
+}
+main section{
+    background-color: transparent;
+
+}
+aside{
+    background-color: #ddd;
+    margin: 4px 0px;
+}
+footer{
+    background-color: #ddd;
+    margin: 4px 0px;
+}
