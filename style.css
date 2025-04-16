@@ -29,24 +29,30 @@ body{
     width:90% ;
 }
 header{
-    background-color: #ddd;
-    margin: 4px 0px;
+   
     height: 10em;
 }
 nav{
-background-color: #ddd;
-margin: 4px 0px;
+ 
 height: 2em;
 }
 .container{
     display: flex;
-    fle
+    
+}
+
+main,aside,footer,nav,header{
+    border: 1px solid #5f6368;
+    margin: 4px;
+    padding: 4px;
+    border: 1px solid #5f6368;
+    margin: 4px;
+    padding: 4px;
 }
 
 
 main{
-    background-color: #ddd;
-    margin: 4px 0px;
+  
 }
 main article{
 background-color: transparent;
@@ -60,10 +66,11 @@ main section{
 
 }
 aside{
-    background-color: #ddd;
-    margin: 4px 0px;
+    
+   
+
 }
 footer{
-    background-color: #ddd;
-    margin: 4px 0px;
+    
+  
 }
