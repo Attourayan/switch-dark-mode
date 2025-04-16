@@ -1,3 +1,13 @@
-header {
-    background-color: red;
-  }
+.container  {
+ 
+  display: block;
+  
+}
+main,aside{
+  width: 100%;
+}
+main section {
+ 
+  display: block;
+  
+}

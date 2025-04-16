@@ -24,8 +24,7 @@ body {
   margin: 0 auto;
   padding: 4px;
   width: 90%;
-  min-width: 900px;
-  max-width: 90%;
+ 
   background-color: transparent;
   height: 100vh;
  
@@ -55,8 +54,9 @@ header {
 
 main {
     display: block;
-    width: 80%;
+    width: 50%;
     height: 100vh;
+    background-color: #272eb5;
    
 }
 main article {
@@ -85,11 +85,13 @@ main article p {
 }
 
 main section {
+  width: 90%;
   background-color: transparent;
   border: 1px solid var(--color-primary-x-light);
   display: flex;
   margin: 2px 0px;
   min-height: 200px;
+  background-color: yellow;
 }
 /*---------aside---------------*/
 aside {

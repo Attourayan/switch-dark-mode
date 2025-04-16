@@ -1,3 +1,27 @@
-header {
-    background-color: yellow;
-  }
+
+body {
+  margin: 0 auto;
+  padding: 1px;
+  width: 100%;
+  
+  background-color: red;
+  height: 100vh;
+ 
+}
+
+
+
+.container  {
+  width: 99%;
+  margin: 4px;
+  display: block;
+  
+}
+main,aside{
+  width: 100%;
+}
+main section {
+ 
+  display: block;
+  
+}
